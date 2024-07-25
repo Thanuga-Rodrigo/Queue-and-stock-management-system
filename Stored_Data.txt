@@ -1,0 +1,30 @@
+Customers in cashier 1 :
+Thanuga Rodrigo 5 
+Empty
+
+Customers in cashier 2 :
+Empty
+Empty
+Empty
+
+Customers in cashier 3 :
+Empty
+Empty
+Empty
+Empty
+Empty
+
+Customers in waiting List:
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+Empty
+
+Burgers in stock : 
+50
